@@ -29,7 +29,7 @@ background-color: #D2ECEB
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 #Configure the API with your API key
-palm.configure(api_key="")
+palm.configure(api_key="YOUR-API-KEY")
 
 #Define the model to use
 model_name = "models/text-bison-001"
