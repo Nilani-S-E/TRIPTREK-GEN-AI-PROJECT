@@ -38,9 +38,9 @@ model_name = "models/text-bison-001"
 st.title("AI Travel Planner")
 
 
-#
-
+# Streamlit Header
 st.header("TripTrek: Intelligent Travel Planning with AI")
+
 # Intoduction text
 st.markdown("""<div style="text-align: justify;">
             
